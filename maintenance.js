@@ -57,7 +57,7 @@ function MainCtrl(currentSpot) {
 
 function LocationsCtrl(currentSpot) {
   currentSpot.setCurrentSpot('Locations',
-    'Manage the list of diving locations')
+    'Manage the list of housing locations')
 }
 
 function SitesCtrl(currentSpot) {
